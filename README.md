@@ -2,6 +2,8 @@
 
 A 2D racing game created using the pygame library with Python. I created this game with the intention to practice and display my Python coding skills.
 
+NOTE: To run the game, you must download both the pygame and pygame_gui libraries!
+
 Rules of the game:
 
     You choose a level to play. Each level has it's own opponent.
